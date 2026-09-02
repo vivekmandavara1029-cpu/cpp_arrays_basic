@@ -53,14 +53,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contributing
 Contributions are what make the open-source community an amazing place to learn, inspire, and create!
 Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingLogic).
-Commit your Changes (git commit -m 'Add some AmazingLogic').
-Push to the Branch (git push origin feature/AmazingLogic).
-Open a Pull Request.
+Create your Feature Branch (git checkout -b feature/AmazingLogic)
+Commit your Changes (git commit -m 'Add some AmazingLogic')
+Push to the Branch (git push origin feature/AmazingLogic)
+Open a Pull Request
 
 ## 📈 Goals
- Convert brute-force approaches into highly optimized solutions.
- Master the C++ Standard Template Library (STL).
+ Convert brute-force approaches into highly optimized solutions
+ Master the C++ Standard Template Library (STL)
  
 ## ⭐ Support
 If this repository helped you improve your coding logic, please consider giving it a Star! It helps others discover this project.
