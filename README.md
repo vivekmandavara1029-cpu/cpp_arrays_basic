@@ -1,16 +1,19 @@
 # cpp_arrays_basic
 A foundational collection of core array concepts, manipulations, and basic operations ( like traversing , sorting , inserting , searching and merging ) implemented in C++.
+welcome to the *cpp_arrays_basic*!... this repository is a dedicated for foundamental concepets of c++ , basics of data structured algorithm ,and competative programming.
+A production-grade, highly optimized collection of foundational and advanced array data structures, algorithms, and technical interview patterns in C++.
 
 [![License: MIT](https://shields.io)](https://opensource.org)
 [![Language: C++17](https://shields.io)](https://cppreference.com)
-
-A production-grade, highly optimized collection of foundational and advanced array data structures, algorithms, and technical interview patterns in C++.
 
 ## ⚡ Features
 - *Zero-Dependency Core:* Pure C++ implementation focusing on optimal time and space complexity.
 - *Modern C++ Standards:* Built using C++17 features (smart pointers, structured bindings, string views).
 - *Automated Formatting:* Consistent style enforcement via .clang-format.
 - *Pre-configured Build System:* Compiles cleanly across GCC, Clang, and MSVC via CMake.
+
+## Program sturctured 
+
 
 ## 📁 Architecture
 text
