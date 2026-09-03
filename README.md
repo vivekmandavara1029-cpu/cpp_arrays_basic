@@ -15,6 +15,8 @@ A production-grade, highly optimized collection of foundational and advanced arr
 ## Program sturctured 
 * *create array.cpp*: To create array using arrays concepts and algorithm.
 
+* *sum_and_avg of array.cpp*: To find and calculate the sum and the average of element of the array using simple arrays concept.
+
 
 ## 📁 Architecture
 text
