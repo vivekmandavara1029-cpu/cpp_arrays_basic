@@ -35,30 +35,30 @@ text
 - A modern C++17 compatible compiler (GCC 9+, Clang 9+, MSVC 2019+)
 
 ### Build Steps
-bash
+- bash
 # Clone the repository
-git clone https://github.com
+- git clone https://github.com
 cd cpp_arrays_basic
 
 # Generate build files and compile
-cmake -B build -DCMAKE_BUILD_TYPE=Release
-cmake --build build
+- cmake -B build -DCMAKE_BUILD_TYPE=Release
+- cmake --build build
 
 # Run executable
-./build/bin/array_app
+- ./build/bin/array_app
 
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 ## 🤝 Contributing
-Contributions are what make the open-source community an amazing place to learn, inspire, and create!
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingLogic).
-Commit your Changes (git commit -m 'Add some AmazingLogic').
-Push to the Branch (git push origin feature/AmazingLogic).
-Open a Pull Request.
+- Contributions are what make the open-source community an amazing place to learn, inspire, and create!
+- Fork the Project
+- Create your Feature Branch (git checkout -b feature/AmazingLogic).
+- Commit your Changes (git commit -m 'Add some AmazingLogic').
+- Push to the Branch (git push origin feature/AmazingLogic).
+- Open a Pull Request.
 
 ## 📈 Goals
  Convert brute-force approaches into highly optimized solutions.
