@@ -1,6 +1,6 @@
-# cpp_arrays_basic
+# CppArrayBasic
 A foundational collection of core array concepts, manipulations, and basic operations ( like traversing , sorting , inserting , searching and merging ) implemented in C++.
-welcome to the *cpp_arrays_basic*!... this repository is a dedicated for foundamental concepets of c++ , basics of data structured algorithm ,and competative programming.
+welcome to the *CppArrayBasic*!... this repository is a dedicated for foundamental concepets of c++ , basics of data structured algorithm ,and competative programming.
 A production-grade, highly optimized collection of foundational and advanced array data structures, algorithms, and technical interview patterns in C++.
 
 [![License: MIT](https://shields.io)](https://opensource.org)
@@ -16,6 +16,8 @@ A production-grade, highly optimized collection of foundational and advanced arr
 * *create array.cpp*: To create array using arrays concepts and algorithm.
 
 * *sum_and_avg of array.cpp*: To find and calculate the sum and the average of element of the array using simple arrays concept.
+
+* *max-minvalue of array.cpp*: To find the maximum and minimum value of elements of the array using simple core arrays concept.
 
 
 ## 📁 Architecture
